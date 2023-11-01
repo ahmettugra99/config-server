@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs "
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@eazybank.com"

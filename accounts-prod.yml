@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs "
+  contactDetails:
+    name: "Ahmet Tugra - Product Owner"
+    email: "Ahmet Tugra@bank.com"
